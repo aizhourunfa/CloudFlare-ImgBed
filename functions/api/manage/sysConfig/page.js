@@ -49,7 +49,7 @@ export async function getPageConfig(kv, env) {
     config.push(
         {
             id: 'siteTitle',
-            label: '网站标题',
+            label: '测试',
             placeholder: 'Sanyue ImgHub',
         },
         {
