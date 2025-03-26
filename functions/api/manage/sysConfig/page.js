@@ -50,7 +50,7 @@ export async function getPageConfig(kv, env) {
         {
             id: 'siteTitle',
             label: '网站标题',
-            placeholder: '测试',
+            placeholder: 'Sanyue ImgHub',
         },
         {
             id: 'siteIcon',
